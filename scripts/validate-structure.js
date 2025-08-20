@@ -8,9 +8,7 @@ const path = require('path');
  */
 
 const REQUIRED_FILES = {
-  'pacs': ['getting-started.md', 'user-manual.md', 'admin-guide.md'],
-  'ris': ['getting-started.md', 'user-manual.md', 'admin-guide.md'],
-  'object-store': ['getting-started.md', 'user-manual.md', 'api-reference.md']
+  'Barovia Paranormal': ['getting-started.md'],
 };
 
 const DOCS_DIR = path.join(__dirname, '..', 'docs');
