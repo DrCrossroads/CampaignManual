@@ -1,0 +1,42 @@
+<svg width="800" height="600" viewBox="0 0 800 600" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bgGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#f8f9fa;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#e9ecef;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  
+  <!-- Background -->
+  <rect width="800" height="600" fill="url(#bgGradient)" stroke="#dee2e6" stroke-width="2"/>
+  
+  <!-- Header -->
+  <rect x="0" y="0" width="800" height="80" fill="#0066cc" />
+  <text x="400" y="50" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="28" font-weight="bold">Novarad PACS</text>
+  
+  <!-- Login Form Container -->
+  <rect x="250" y="150" width="300" height="300" fill="white" stroke="#dee2e6" stroke-width="2" rx="8"/>
+  
+  <!-- Login Form Title -->
+  <text x="400" y="190" text-anchor="middle" fill="#343a40" font-family="Arial, sans-serif" font-size="20" font-weight="bold">Login</text>
+  
+  <!-- Username Field -->
+  <text x="280" y="230" fill="#495057" font-family="Arial, sans-serif" font-size="14">Username:</text>
+  <rect x="280" y="240" width="240" height="35" fill="white" stroke="#ced4da" stroke-width="1" rx="4"/>
+  <text x="290" y="260" fill="#6c757d" font-family="Arial, sans-serif" font-size="14">user@example.com</text>
+  
+  <!-- Password Field -->
+  <text x="280" y="300" fill="#495057" font-family="Arial, sans-serif" font-size="14">Password:</text>
+  <rect x="280" y="310" width="240" height="35" fill="white" stroke="#ced4da" stroke-width="1" rx="4"/>
+  <circle cx="300" cy="327" r="3" fill="#6c757d"/>
+  <circle cx="315" cy="327" r="3" fill="#6c757d"/>
+  <circle cx="330" cy="327" r="3" fill="#6c757d"/>
+  <circle cx="345" cy="327" r="3" fill="#6c757d"/>
+  
+  <!-- Login Button -->
+  <rect x="280" y="370" width="240" height="40" fill="#0066cc" stroke="#0056b3" stroke-width="1" rx="4"/>
+  <text x="400" y="395" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="16" font-weight="bold">Sign In</text>
+  
+  <!-- Footer -->
+  <text x="400" y="530" text-anchor="middle" fill="#6c757d" font-family="Arial, sans-serif" font-size="12">© 2025 Novarad Corporation</text>
+  <text x="400" y="550" text-anchor="middle" fill="#6c757d" font-family="Arial, sans-serif" font-size="12">Secure Medical Imaging Platform</text>
+</svg>

@@ -1,0 +1,48 @@
+{
+  "name": "novarad-learn",
+  "version": "1.0.0",
+  "description": "Centralized documentation repository for Novarad products",
+  "scripts": {
+    "validate": "npm run lint:markdown && npm run spell-check && npm run validate-structure",
+    "lint:markdown": "markdownlint-cli2 \"docs/**/*.md\"",
+    "lint:markdown:fix": "markdownlint-cli2 --fix \"docs/**/*.md\"",
+    "spell-check": "cspell \"docs/**/*.md\" --config .cspell.json",
+    "check-links": "find docs -name '*.md' -exec markdown-link-check {} \\;",
+    "validate-structure": "node scripts/validate-structure.js",
+    "optimize-images": "node scripts/optimize-images.js",
+    "serve": "http-server docs -p 8080 -c-1",
+    "build": "node scripts/build-docs.js",
+    "dev": "npm run serve",
+    "test": "npm run validate"
+  },
+  "devDependencies": {
+    "markdownlint-cli2": "^0.18.1",
+    "cspell": "^8.6.0",
+    "markdown-link-check": "^3.12.1",
+    "http-server": "^14.1.1",
+    "prettier": "^3.2.5",
+    "imagemin": "^8.0.1",
+    "imagemin-mozjpeg": "^10.0.0",
+    "imagemin-pngquant": "^9.0.2",
+    "imagemin-svgo": "^10.0.1"
+  },
+  "keywords": [
+    "documentation",
+    "novarad",
+    "pacs",
+    "ris",
+    "object-store",
+    "healthcare",
+    "medical-imaging"
+  ],
+  "author": "Novarad Corporation",
+  "license": "PROPRIETARY",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/novarad/novarad-learn.git"
+  },
+  "bugs": {
+    "url": "https://github.com/novarad/novarad-learn/issues"
+  },
+  "homepage": "https://github.com/novarad/novarad-learn#readme"
+}
