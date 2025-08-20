@@ -1,0 +1,7 @@
+>Even under gray skies, this fountain on the east side of the district shimmers and sparkles. Trees completely surround the square and near the structure sits an old gazebo on the verge of collapse. A wooden statue of a mournful, bare-chested man, its paint chipped and faded, stands in the gazebo with arms outstretched, as though waiting to be embraced.
+
+The fountain is fed by an underground spring and was blessed long ago by Saint Markovia. Its waters defy corruption, and anyone who drinks from it for the first time gains the benefit of a lesser restoration spell. (The water once had even greater magic but has weakened over the years.) The water otherwise tastes sweet and fresh.
+The gazebo is so frail that it wouldn't take more than a strong wind to knock it over. It remains standing because it's protected from the elements by the surrounding trees. The statue is a depiction of the Morninglord, positioned so that he is reaching toward the east (the dawn). Locals refer to the statue and gazebo as the Shrine of the White Sun.
+
+#### Events
+If your card reading reveals that a treasure is here, the item is hidden under the gazebo. The gazebo must be torn  down to reach it, and doing that doesn't sit well with the locals. If the characters damage the gazebo and don't repair it, any Charisma checks they make to shift the attitudes have disadvantage.

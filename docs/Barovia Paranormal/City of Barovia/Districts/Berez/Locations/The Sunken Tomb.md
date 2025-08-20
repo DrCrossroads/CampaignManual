@@ -1,0 +1,6 @@
+- **Beneath the ruins** lies a forgotten crypt—**Ulrich’s intended resting place.**
+- It was never used. The **tomb is empty.**
+- Instead, **strange runes are etched into the walls**, detailing the cycle of Strahd’s curse in a language nearly lost to time.
+- If deciphered, they reveal:
+    - **The existence of an unknown third option.**
+    - **A location tied to this alternative path.**

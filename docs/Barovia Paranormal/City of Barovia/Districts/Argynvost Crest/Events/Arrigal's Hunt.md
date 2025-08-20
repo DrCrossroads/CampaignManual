@@ -1,0 +1,5 @@
+[[Ezmerelda (Ezi) D'Avenir]] arrives at [[Argynvost Citadel]] on a motorcycle stolen from [[_The Vistani]] camp in [[Vistani Park]]. She has heard that the reportedly haunted citadel might harbor enemies of Strahd and contain secrets to the vampire's destruction.
+
+Once she arrives, Ezmerelda parks the motorcycle and quietly makes her way through the citadel until she reaches the characters. Hot on Ezmerelda's trail are the Vistani leader [[Arrigal]] (NE male human assassin) and two Vistani bodyguards (CE female bandits). Arrigal rides a black car, while the bandits ride two motorcycles.
+
+Arrigal is determined to capture Ezmerelda and haul her back to the Vistani camp to face punishmenf for stealing the motorcycle. He does nothing to antagonize the characters, however, and returns to the Vistani camp if he can't convince them to give up Ezmerelda.

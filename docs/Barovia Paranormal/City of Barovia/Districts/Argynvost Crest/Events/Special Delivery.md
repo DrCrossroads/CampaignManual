@@ -1,0 +1,5 @@
+This encounter occurs while the characters are inside [[Argynvost Citadel]]. Those who have a passive **Wisdom (Perception) score of 11** or higher hear a rickety engine and the crunch of wheels on gravel.
+
+An old hearse driven by a mad Vistana named Kolya (CN male human bandit) stops in front of the citadel. After relieving himself on the statue of Argynvost, Kolya drags a large box out of the back of the hearse, letting it crash to the ground, and rides back to [[Vistani Park]] in Lower Vallaki, leaving the cargo behind: a plain wooden coffin.
+
+The coffin was made in Lower Vallaki by the local coffin maker, [[Henrik van der Voort]]. It has the name of one of the characters (determined randomly) neatly chiseled into its lid. Opening the coffin releases a swarm of bats from within. The swarm attacks the character whose name is engraved on the coffin. If that character isn't in sight, the swarm flies away.

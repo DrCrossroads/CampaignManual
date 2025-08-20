@@ -1,0 +1,14 @@
+This event occurs in the evening as the characters make their way through the district.
+
+>You hear the sound of small, wooden wheels rolling across damp cobbles. You trace the lonely sound to a hunched figure bundled in rags, pushing a rickety wooden cart through the fog.
+
+[[Morgantha]], a night hag in the guise of an old woman, has come to the district from the[[The Old Bonegrinder Mill]] in Lower Vallaki to sell her dream pastries for 1 cp apiece. She goes from house to house, knocking on doors. Most of the time, no one answers. When someone does, Morgantha tries to peddle her wares, offering customers an escape from the misery and despair of everyday life. If the characters shadow her for a while, she collects payment from one household in the form of a seven-year-old boy named Lucian Jarov (LG male human noncombatant). Lucian's parents plead with Morgantha not to take their boy, but she snatches the crying child from their grasp, stuffs him in a sack, straps him down to her peddler's cart, and casually makes her way back to the Old Bonegrinder Mill.
+Morgantha recognizes that the characters are **strangers** and does her best to avoid them. If the characters demand the release of the child, she grudgingly complies, knowing that she can always come back for the boy later. She fights only in self-defense and offers the
+following information in exchange for her life:
+- [[Strahd, Eldritch Lord of Barovia CR 13]] isn't what he seems. He has mastery over the city and somehow the weather inside it, and he has spies everywhere.
+- [[The Kolyana Family]] stood against the family Zarovich and that's why the family has recently been cut down, making it easier for her to do her business in the district.
+- Don von Zarovich has undead enemies in the city, namely [[_The Silver Order]]. These revenants can be found in a ruined mansion in [[Argynvost Crest]].
+- Strahd's most carefully guarded secret is a temple of forbidden lore sunk to the bottom of the sea.
+
+### Dream Pastries
+Made with the bones of the innocent, the hags' dream pastries allow Barovians to enter a trance, wherein they can escape to heavenly places full of joy. When adults can no longer afford the hag's dream pastries, the hags offer to trade their pastries for the Barovians' children, thus preying on the adults' selfishness while acquiring the ingredients they need to make more pastries. This is how the hags sow corruption in Strahd's domain and why they don't take the children by force. The hags are interested only in children who have souls. They prick each child with a needle; if the child cries, that's a sign that the infant has a soul.
