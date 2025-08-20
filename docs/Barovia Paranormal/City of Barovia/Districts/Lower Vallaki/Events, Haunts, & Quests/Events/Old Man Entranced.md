@@ -1,0 +1,9 @@
+> The river dividing Lower Vallaki is perfectly still and dark, reflecting the black clouds overhead like a monstrous mirror.
+
+If the characters arrive along river shore in the northernmost portion of the district at night, add:
+>Pulled up along the west side of the river, you can see three boats. A fourth boat can be seen in the middle of the river, with a lone figure sitting in it, fishing pole in hand. Each rowboat can safely hold three people.
+
+The person fishing on the lake is Bluto Krogarov (NE male human commoner), a resident of Lower Vallaki. He is in a trance and doesn't respond to anything or anyone unless attacked. His boat is in the center of the river, 40 ft from the shore. Tied up in the boat is a seven-year-old Vistana named Arabelle (LN female human commoner with 2 hit points and no effective attacks). She is bound with hempen rope, wrapped in a burlap sack, and lying prone so that she can't be seen or heard from the shore.
+
+#### ROLEPLAYING BLUTO
+Bluto Krogarov is a destitute drunkard. He's desperate to catch some fish and trade them for wine at the Blue Water Inn. After he was unable to catch a single fish for a week, he kidnapped Arabelle, believing that Vistani are lucky. He intends to sacrifice her to the river, hoping it will give up some of its fish in return. If the characters watch Bluto from the shore for several minutes, or if they row out into the river to greet him, he tosses the burlap sack into the water, watches it sink, and waits with fishing pole in hand for his reward. Bluto is a hollow shell of a man, barely able to under stand his own actions. He is unarmed and does nothing to aid or thwart the characters.
