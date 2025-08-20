@@ -1,0 +1,1 @@
+Member of [[_The Martikov Family]]. Youngest son of [[Davian Martikov]]. Helps with the bootlegging business. [[The Black Feather Distillery]].

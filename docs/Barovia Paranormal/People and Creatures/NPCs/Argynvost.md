@@ -1,0 +1,3 @@
+The spirit of the dragon Argynvost isn't at rest.  It can sense that its knights have been corrupted, and it reaches out to the characters, hoping they will help the knights find peace.
+
+If the characters retrieve the dragon's skull from the laboratory in [[The Lofts]] and place it in [[The Silver Mausoleum]], the dragon's spirit ascends to the highest tower of [[Argynvost Citadel]] and transforms into a beacon of light that flashes across Barovia City. The light of the beacon reminds Vladimir Horngaard of what he has lost, enabling him and his fellow knights to let go of their hatred and find both redemption and rest.

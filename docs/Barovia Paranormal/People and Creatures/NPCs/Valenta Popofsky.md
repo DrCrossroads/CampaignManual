@@ -1,0 +1,1 @@
+Member of [[_The Zarovich Family]]. [[CR6 Deep-Maw Vampire]]. Bride of [[Strahd, Eldritch Lord of Barovia CR 13]]. Found in crypts of [[The Lofts]].
