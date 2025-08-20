@@ -1,7 +1,7 @@
 {
-  "name": "novarad-learn",
+  "name": "barovia-campaign",
   "version": "1.0.0",
-  "description": "Centralized documentation repository for Novarad products",
+  "description": "Centralized documentation for a 1920s Lovecraftian Curse of Strahd rewrite.",
   "scripts": {
     "validate": "npm run lint:markdown && npm run spell-check && npm run validate-structure",
     "lint:markdown": "markdownlint-cli2 \"docs/**/*.md\"",
@@ -27,22 +27,18 @@
     "imagemin-svgo": "^10.0.1"
   },
   "keywords": [
-    "documentation",
-    "novarad",
-    "pacs",
-    "ris",
-    "object-store",
-    "healthcare",
-    "medical-imaging"
+    "TTRPG",
+    "Nameless GM",
+    "Barovia"
   ],
-  "author": "Novarad Corporation",
-  "license": "PROPRIETARY",
+  "author": "Daniel Crossen",
+  "license": "Free-Use",
   "repository": {
     "type": "git",
-    "url": "https://github.com/novarad/novarad-learn.git"
+    "url": "https://github.com/DrCrossroads/CampaignManual.git"
   },
   "bugs": {
-    "url": "https://github.com/novarad/novarad-learn/issues"
+    "url": "https://github.com/DrCrossroads/CampaignManual/issues"
   },
-  "homepage": "https://github.com/novarad/novarad-learn#readme"
+  "homepage": "https://github.com/DrCrossroads/CampaignManual#readme"
 }
