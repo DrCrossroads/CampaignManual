@@ -4,7 +4,7 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 ## Repository Overview
 
-NovaradLearn is a centralized documentation repository for Novarad healthcare products (PACS, RIS, Object Store). This is a documentation-only repository with no application code - all content is in Markdown format with automated quality validation.
+CampaignManual is a centralized documentation repository for homebrew TTRPG Manuals. This is a documentation-only repository with no application code - all content is in Markdown format with automated quality validation.
 
 ## Common Commands
 
@@ -42,21 +42,76 @@ The repository enforces strict quality standards through automated checks:
 ### Documentation Hierarchy
 ```
 docs/
-├── pacs/              # PACS product documentation
-├── ris/               # RIS product documentation  
-├── object-store/      # Object Store documentation
-├── shared/            # Cross-product documentation
-└── assets/images/     # Organized by product subdirectories
+├── Barovia Paranormal/              # product documentation
+│   ├── City of Barovia
+│   │   ├── Districts
+│   │   │   ├── Argynvost Crest
+│   │   │   │   ├── Events
+│   │   │   │   └── Locations
+│   │   │   ├── Baratok Avenues
+│   │   │   │   ├── Events
+│   │   │   │   └── Locations
+│   │   │   ├── Barovian Heights
+│   │   │   │   ├── Events
+│   │   │   │   └── Locations
+│   │   │   ├── Berez
+│   │   │   │   ├── Events
+│   │   │   │   └── Locations
+│   │   │   ├── Krezk Valley
+│   │   │   │   ├── Events
+│   │   │   │   └── Locations
+│   │   │   ├── Lower Vallaki
+│   │   │   │   ├── Events
+│   │   │   │   └── Locations
+│   │   │   ├── Misty Docks
+│   │   │   │   ├── Events
+│   │   │   │   └── Locations
+│   │   │   ├── Ravenloft
+│   │   │   │   ├── Events
+│   │   │   │   └── Locations
+│   │   │   ├── Yesterhill Point
+│   │   │   │   ├── Events
+│   │   │   └   └── Locations
+│   │   └── The Amber Temple
+│   ├── Information
+│   │   ├── City Information
+│   │   ├── General Encounters
+│   │   ├── Magic Items
+│   │   └── Rules and Ideas
+│   ├── Investigation
+│   │   ├── Ghosts
+│   │   ├── Monsters and Creatures
+│   │   ├── NPCs
+│   │   │   │   ├── Barovia City Government
+│   │   │   │   ├── Barovia City Enforcement
+│   │   │   │   ├── Cult of the Abbot
+│   │   │   │   ├── Edritch Cultists
+│   │   │   │   ├── Journalists & Informants
+│   │   │   │   ├── The Church of the Eternal Light
+│   │   │   │   ├── The Coven
+│   │   │   │   ├── The Drowned Circle
+│   │   │   │   ├── The Kolyana Family
+│   │   │   │   ├── The Martikov Family
+│   │   │   │   ├── The Packhounds
+│   │   │   │   ├── The Silver Order
+│   │   │   │   ├── The Vallakovich Family
+│   │   │   │   ├── The Vistani
+│   │   │   │   ├── The Wachter Family
+│   │   │   └   └── The Zarovich Family
+│   │   ├── Notable Groups
+│   │   ├── Vampires
+│   │   └── Zombies
+│   └── People and Creatures
+├──  assets/images/     # 
+│   ├── Districts
+│   ├── Ideas and Inspiration
+│   └── Shared
 ```
 
 ### Required Files Per Product
 Each product directory must contain:
 - `getting-started.md` - Introduction and basic setup
 - `user-manual.md` - Comprehensive user guide
-- `admin-guide.md` - Administrative configuration
-- `api-reference.md` (object-store only)
-- `troubleshooting.md` (pacs only)
-- `integration-guide.md` (ris only)
 
 ### Configuration Files
 - `.markdownlint.json` - Markdown linting rules (allows specific HTML elements, disables line length limits)
@@ -82,8 +137,8 @@ Each product directory must contain:
 ### Image Guidelines
 - PNG for screenshots, SVG for diagrams, JPG for photos
 - Max 800px width for screenshots
-- Store in `docs/assets/images/[product-name]/`
-- Use descriptive filenames: `pacs-login-screen.svg`
+- Store in `docs/assets/images/[manual]`
+- Use descriptive filenames: `barovia-city.svg`
 - Always include alt text for accessibility
 
 ## Validation Requirements
