@@ -1,6 +1,6 @@
-# Contributing to NovaradLearn 🤝
+# Contributing to Nameless GM Campaigns
 
-Thank you for your interest in contributing to NovaradLearn! This guide will help you understand our documentation standards and contribution process.
+Thank you for your interest in contributing to Nameless GM Campaigns! This guide will help you understand our documentation standards and contribution process.
 
 ## 📋 Table of Contents
 
@@ -26,7 +26,6 @@ Thank you for your interest in contributing to NovaradLearn! This guide will hel
 ### File Naming Conventions
 
 - Use lowercase with hyphens for file names: `user-manual.md`
-- Be descriptive but concise: `pacs-installation-guide.md`
 - Use consistent naming across products:
   - `getting-started.md` - Introduction and basic setup
   - `user-manual.md` - Comprehensive user guide
@@ -38,20 +37,71 @@ Thank you for your interest in contributing to NovaradLearn! This guide will hel
 
 ```text
 docs/
-├── [product-name]/
-│   ├── getting-started.md
-│   ├── user-manual.md
-│   ├── admin-guide.md
-│   ├── troubleshooting.md
-│   └── advanced/          # Advanced topics
-├── shared/                # Cross-product documentation
-│   ├── glossary.md
-│   ├── common-procedures.md
-│   └── system-requirements.md
-└── assets/
-    ├── images/
-    │   └── [product-name]/
-    └── downloads/
+├── Barovia Paranormal/              # product documentation
+│   ├── City of Barovia
+│   │   ├── Districts
+│   │   │   ├── Argynvost Crest
+│   │   │   │   ├── Events
+│   │   │   │   └── Locations
+│   │   │   ├── Baratok Avenues
+│   │   │   │   ├── Events
+│   │   │   │   └── Locations
+│   │   │   ├── Barovian Heights
+│   │   │   │   ├── Events
+│   │   │   │   └── Locations
+│   │   │   ├── Berez
+│   │   │   │   ├── Events
+│   │   │   │   └── Locations
+│   │   │   ├── Krezk Valley
+│   │   │   │   ├── Events
+│   │   │   │   └── Locations
+│   │   │   ├── Lower Vallaki
+│   │   │   │   ├── Events
+│   │   │   │   └── Locations
+│   │   │   ├── Misty Docks
+│   │   │   │   ├── Events
+│   │   │   │   └── Locations
+│   │   │   ├── Ravenloft
+│   │   │   │   ├── Events
+│   │   │   │   └── Locations
+│   │   │   ├── Yesterhill Point
+│   │   │   │   ├── Events
+│   │   │   └   └── Locations
+│   │   └── The Amber Temple
+│   ├── Information
+│   │   ├── City Information
+│   │   ├── General Encounters
+│   │   ├── Magic Items
+│   │   └── Rules and Ideas
+│   ├── Investigation
+│   │   ├── Ghosts
+│   │   ├── Monsters and Creatures
+│   │   ├── NPCs
+│   │   │   │   ├── Barovia City Government
+│   │   │   │   ├── Barovia City Enforcement
+│   │   │   │   ├── Cult of the Abbot
+│   │   │   │   ├── Edritch Cultists
+│   │   │   │   ├── Journalists & Informants
+│   │   │   │   ├── The Church of the Eternal Light
+│   │   │   │   ├── The Coven
+│   │   │   │   ├── The Drowned Circle
+│   │   │   │   ├── The Kolyana Family
+│   │   │   │   ├── The Martikov Family
+│   │   │   │   ├── The Packhounds
+│   │   │   │   ├── The Silver Order
+│   │   │   │   ├── The Vallakovich Family
+│   │   │   │   ├── The Vistani
+│   │   │   │   ├── The Wachter Family
+│   │   │   └   └── The Zarovich Family
+│   │   ├── Notable Groups
+│   │   ├── Vampires
+│   │   └── Zombies
+│   └── People and Creatures
+├──  assets/images/     #
+│   ├── Barovia-Paranormal 
+│   │   ├── Districts
+│   │   └── Ideas and Inspiration
+│   └── Shared
 ```
 
 ## ✍️ Writing Guidelines
@@ -114,7 +164,7 @@ const config = { api: 'https://api.example.com' };
 ### Tables
 
 ```markdown
-| Feature | PACS | RIS | Object Store |
+| Feature | Title | Title | Title |
 |---------|------|-----|--------------|
 | Storage | ✅   | ✅  | ✅           |
 | Search  | ✅   | ✅  | ❌           |
@@ -138,19 +188,17 @@ Use these for important information:
 
 - **Format**: Use PNG for screenshots, SVG for diagrams, JPG for photos
 - **Size**: Optimize images (max 800px width for screenshots)
-- **Naming**: Use descriptive names: `pacs-login-screen.png`
+- **Naming**: Use descriptive names: `barovia_city.png`
 - **Alt text**: Always include meaningful alt text for accessibility
 
 ### File Organization
 
 ```text
 docs/assets/images/
-├── pacs/
-│   ├── screenshots/
-│   ├── diagrams/
-│   └── icons/
-├── ris/
-└── object-store/
+│   ├── Barovia-Paranormal 
+│   │   ├── Districts
+│   │   └── Ideas and Inspiration
+│   └── Shared
 ```
 
 ### Image Usage
@@ -158,7 +206,7 @@ docs/assets/images/
 Use this markdown syntax for images (path relative to the markdown file):
 
 ```markdown
-![Alt text describing the image](docs/assets/images/pacs/pacs-login-screen.svg)
+![Alt text describing the image](docs/assets/images/barovia-paranormal/barovia_city.svg)
 ```
 
 Example format for image paths:
@@ -247,3 +295,5 @@ By contributing to this repository, you agree that your contributions will be li
 ---
 
 **Questions?** Feel free to reach out to the documentation team or create an issue!
+
+get status
