@@ -1,10 +1,10 @@
-# NovaradLearn 📚
+# Nameless GM Campaigns
 
-> **Centralized Documentation Repository for Novarad Products**
+> **Centralized Documentation Repository for Nameless GM Campaigns**
 
-Welcome to NovaradLearn - the comprehensive documentation hub for all Novarad products and services. This repository serves as the single source of truth for user manuals, technical documentation, and guides across our entire product suite.
+Welcome to Nameless GM Campaigns - the comprehensive documentation hub for all Nameless GM homebrew campaigns. This repository serves as the single source of truth for campaign manuals.
 
-## 🏗️ Repository Structure
+## Repository Structure
 
 ```text
 docs/
