@@ -295,5 +295,3 @@ By contributing to this repository, you agree that your contributions will be li
 ---
 
 **Questions?** Feel free to reach out to the documentation team or create an issue!
-
-get status
