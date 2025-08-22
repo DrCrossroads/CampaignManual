@@ -130,7 +130,7 @@ For questions about this documentation or to report issues:
 
 ## 📄 License
 
-This documentation is proprietary to Novarad Corporation. All rights reserved.
+This documentation is proprietary to Nameless GM. All rights reserved.
 
 ---
 
