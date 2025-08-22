@@ -8,42 +8,81 @@ Welcome to NovaradLearn - the comprehensive documentation hub for all Novarad pr
 
 ```text
 docs/
-├── pacs/              # PACS (Picture Archiving and Communication System) Documentation
-├── ris/               # RIS (Radiology Information System) Documentation  
-├── object-store/      # Object Store Documentation
-├── shared/            # Shared documentation and common procedures
-└── assets/            # Images, diagrams, and other media assets
+├── Barovia Paranormal/              # product documentation
+│   ├── City of Barovia
+│   │   ├── Districts
+│   │   │   ├── Argynvost Crest
+│   │   │   │   ├── Events
+│   │   │   │   └── Locations
+│   │   │   ├── Baratok Avenues
+│   │   │   │   ├── Events
+│   │   │   │   └── Locations
+│   │   │   ├── Barovian Heights
+│   │   │   │   ├── Events
+│   │   │   │   └── Locations
+│   │   │   ├── Berez
+│   │   │   │   ├── Events
+│   │   │   │   └── Locations
+│   │   │   ├── Krezk Valley
+│   │   │   │   ├── Events
+│   │   │   │   └── Locations
+│   │   │   ├── Lower Vallaki
+│   │   │   │   ├── Events
+│   │   │   │   └── Locations
+│   │   │   ├── Misty Docks
+│   │   │   │   ├── Events
+│   │   │   │   └── Locations
+│   │   │   ├── Ravenloft
+│   │   │   │   ├── Events
+│   │   │   │   └── Locations
+│   │   │   ├── Yesterhill Point
+│   │   │   │   ├── Events
+│   │   │   └   └── Locations
+│   │   └── The Amber Temple
+│   ├── Information
+│   │   ├── City Information
+│   │   ├── General Encounters
+│   │   ├── Magic Items
+│   │   └── Rules and Ideas
+│   ├── Investigation
+│   │   ├── Ghosts
+│   │   ├── Monsters and Creatures
+│   │   ├── NPCs
+│   │   │   │   ├── Barovia City Government
+│   │   │   │   ├── Barovia City Enforcement
+│   │   │   │   ├── Cult of the Abbot
+│   │   │   │   ├── Edritch Cultists
+│   │   │   │   ├── Journalists & Informants
+│   │   │   │   ├── The Church of the Eternal Light
+│   │   │   │   ├── The Coven
+│   │   │   │   ├── The Drowned Circle
+│   │   │   │   ├── The Kolyana Family
+│   │   │   │   ├── The Martikov Family
+│   │   │   │   ├── The Packhounds
+│   │   │   │   ├── The Silver Order
+│   │   │   │   ├── The Vallakovich Family
+│   │   │   │   ├── The Vistani
+│   │   │   │   ├── The Wachter Family
+│   │   │   └   └── The Zarovich Family
+│   │   ├── Notable Groups
+│   │   ├── Vampires
+│   │   └── Zombies
+│   └── People and Creatures
+├──  assets/images/     # images for the manual
+│   ├── Districts
+│   ├── Ideas and Inspiration
+│   └── Shared
 ```
 
 ## 📖 Products Covered
 
-### 🔬 PACS (Picture Archiving and Communication System)
+### Barovia Paranormal (A 1920s Lovecraftian rewrite of Curse of Strahd)
 
-Complete documentation for our medical imaging storage and retrieval system.
-
-- [Getting Started](docs/pacs/getting-started.md)
-- [User Manual](docs/pacs/user-manual.md)
-- [Administrator Guide](docs/pacs/admin-guide.md)
-
-### 🏥 RIS (Radiology Information System)
-
-Comprehensive guides for our radiology workflow management system.
-
-- [Getting Started](docs/ris/getting-started.md)
-- [User Manual](docs/ris/user-manual.md)
-- [Administrator Guide](docs/ris/admin-guide.md)
-
-### 💾 Object Store
-
-Documentation for our scalable object storage solution.
-
-- [Getting Started](docs/object-store/getting-started.md)
-- [User Manual](docs/object-store/user-manual.md)
-- [API Reference](docs/object-store/api-reference.md)
+- [Getting Started](docs/barovia_paranormal/getting-started.md)
 
 ## 🚀 Quick Start
 
-1. **Browse Documentation**: Navigate to the `docs/` folder to find product-specific documentation
+1. **Browse Documentation**: Navigate to the `docs/` folder to find campaign documentation
 2. **Search**: Use GitHub's search functionality to find specific topics
 3. **Contribute**: See our [Contributing Guidelines](CONTRIBUTING.md) for submitting documentation updates
 
@@ -51,8 +90,6 @@ Documentation for our scalable object storage solution.
 
 - **New Users**: Start with the "Getting Started" guides in each product folder
 - **Existing Users**: Refer to the comprehensive user manuals
-- **Administrators**: Check the admin guides for configuration and management
-- **Developers**: Look for API references and integration guides
 
 ## 🤝 Contributing
 
@@ -97,4 +134,4 @@ This documentation is proprietary to Novarad Corporation. All rights reserved.
 
 ---
 
-**Last Updated**: June 2025 | **Version**: 1.0.1
+**Last Updated**: August 2025 | **Version**: 1.0.1
